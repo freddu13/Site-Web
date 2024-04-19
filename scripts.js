@@ -2,7 +2,8 @@ window.addEventListener('DOMContentLoaded', (event) => {
     const projects = [
         { title: "Uno", lang: "Python", description: "projet tldraw miam", link: "https://github.com/freddu13/tldraw-project" },
         { title: "Dos", lang: "Python, Pandas", description: "code d'un jeu snake oicoubeh", link: "https://github.com/freddu13/snake.tmp" },
-        { title: "Tres", lang: "Python", description: "hackathon 1 pagnan", link: "https://github.com/freddu13/pe-hackathon" }
+        { title: "Tres", lang: "Python", description: "hackathon 1 pagnan", link: "https://github.com/freddu13/pe-hackathon" },
+        { title: "Cuatro", lang: "Python", description: "projet banger de fou -->", link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ" }
     ];
 
     // Fonction pour créer une ligne de tableau HTML pour chaque projet
